@@ -1,12 +1,14 @@
 👋 Hello, I'm Junaid Uthman
 
+<div style="display:flex; justify-content:center; justify-item:center; width : 100%;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNiNnZuc3p2amE4eTdmc2p3MThhYmlybW03YzR6cjh6eDN3azBucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" />
+</div>
+
 🎓 I'm a Software Engineering Student with a passion for building web apps, learning new technologies, and solving real-world problems.  
 💻 Take a look at my repositories to discover my projects, skills, and what I can do.  
 🚀 Always exploring and improving!  
 
-<div style="display:flex; justify-content:center; justify-item:center; width : 100%;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNiNnZuc3p2amE4eTdmc2p3MThhYmlybW03YzR6cjh6eDN3azBucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" />
-</div>
+
 
 
 # 💻 Tech Stack:
