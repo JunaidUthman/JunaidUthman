@@ -1,4 +1,4 @@
-[👋 Hello, I'm Junaid Uthman  ](https://readme-typing-svg.herokuapp.com/demo/?color=F7F7F7&lines=%F0%9F%91%8B+Hello%2C+I'm+Junaid+Uthman+)
+👋 Hello, I'm Junaid Uthman
 
 🎓 I'm a Software Engineering Student with a passion for building web apps, learning new technologies, and solving real-world problems.  
 💻 Take a look at my repositories to discover my projects, skills, and what I can do.  
