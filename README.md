@@ -24,9 +24,10 @@ Hi Everyone! I'm a Final-year software engineering student specializing in DevOp
 
 ## Projects
 
-### Microservices-Based Real Estate Rental Platform
+### [Microservices-Based Real Estate Rental Platform](https://github.com/RealEstate-Rental-JunaidUth-version)
 
 <p>
+  <a href="https://github.com/RealEstate-Rental-JunaidUth-version"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" /></a>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
@@ -39,9 +40,10 @@ Hi Everyone! I'm a Final-year software engineering student specializing in DevOp
 - Architected an end-to-end CI/CD pipeline with Jenkins automating tests, SonarQube code analysis, Docker builds, Trivy vulnerability scanning, and Docker Hub publication, followed by GitOps-based continuous delivery via ArgoCD to AWS EKS.
 
 
-### Product Intelligence Platform
+### [Product Intelligence Platform](https://github.com/JunaidUthman/product-intelligence-K8s-Infrastructure)
 
 <p>
+  <a href="https://github.com/JunaidUthman/product-intelligence-K8s-Infrastructure"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" /></a>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
