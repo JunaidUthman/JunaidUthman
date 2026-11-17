@@ -1,25 +1,90 @@
-👋 Hello, I'm Junaid Uthman
+<div align="center">
 
-<div style="display:flex; justify-content:center; justify-item:center; width : 100%;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNiNnZuc3p2amE4eTdmc2p3MThhYmlybW03YzR6cjh6eDN3azBucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
+  <img alt="Junaid Uthman - Terminal Profile" src="./dark_mode.svg" width="100%">
+</picture>
+
+<br><br>
+
+<p align="center">
+  <a href="mailto:junaiduthman123@gmail.com"><img src="https://img.shields.io/badge/Email-junaiduthman123%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/junaid-uthman"><img src="https://img.shields.io/badge/LinkedIn-junaid--uthman-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://github.com/JunaidUthman"><img src="https://img.shields.io/badge/GitHub-JunaidUthman-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
 </div>
 
-🎓 I'm a Software Engineering Student with a passion for building web apps, learning new technologies, and solving real-world problems.  
-💻 Take a look at my repositories to discover my projects, skills, and what I can do.  
-🚀 Always exploring and improving!  
+---
 
+### About Me
 
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JunaidUthman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JunaidUthman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidUthman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Hi Everyone! I'm a Final-year software engineering student specializing in DevOps and Cloud Infrastructure. Equipped with a solid foundation in container orchestration, CI/CD automation, declarative GitOps practices and Infrastructure as Code (IaC). Actively seeking a final year internship to drive scalable deployments, with the goal of transitioning into a Junior DevOps Engineer role.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JunaidUthman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Projects
 
+### Microservices-Based Real Estate Rental Platform
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+- Containerized 12 microservices with Docker using multi-stage builds and optimized instruction ordering to leverage cache, accelerating build times and ensuring lightweight images.
+- Orchestrated microservices across staging and production Kubernetes namespaces using a single parameterized Helm chart, ensuring consistent deployments without duplicating manifests.
+- Architected an end-to-end CI/CD pipeline with Jenkins automating tests, SonarQube code analysis, Docker builds, Trivy vulnerability scanning, and Docker Hub publication, followed by GitOps-based continuous delivery via ArgoCD to AWS EKS.
+
+
+### Product Intelligence Platform
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubeflow-0052CC?style=flat-square&logo=kubeflow&logoColor=white" alt="Kubeflow" />
+</p>
+
+- Orchestrated 5 autonomous Python agents via a Kubeflow MLOps pipeline on Kubernetes, automating scraping workflows, data processing, and model training.
+- Designed a GitHub Actions CI pipeline automating tests and builds for a data visualization web application, with GitOps-based continuous deployment via ArgoCD to the Kubernetes cluster.
+- Deployed the platform on AWS, with the infrastructure fully managed and provisioned via Terraform.
+
+---
+
+## Internships
+
+### 3LM Solutions
+*July 2026 – August 2026 &nbsp;|&nbsp; Software &amp; DevOps Engineering Intern*
+
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+</p>
+
+- Architected and developed a CRM module with NestJS alongside a React/Next.js frontend for a cloud telephony SaaS platform.
+- Containerized the application stack with Docker Compose using multi-stage builds and health checks, ensuring isolated and reproducible environments.
+- Built a GitLab CI pipeline automating tests, Docker builds, and Docker Hub releases.
+
+
+### Dial Technologies
+*July 2025 – August 2025 &nbsp;|&nbsp; Software Engineering Intern*
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+</p>
+
+- Refactored legacy frontend code and updated corresponding PHP/Symfony backend controllers to modernize the user interface for Autohall’s internal task management platform.
+- Streamlined the development workflow by isolating the application stack within a Dockerized local environment to eliminate system dependencies, managing all version control through GitLab.
