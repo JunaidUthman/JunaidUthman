@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
-  <img alt="Junaid Uthman - Terminal Profile" src="./dark_mode.svg" width="100%">
+  <img alt="Junaid Uthman - Terminal Profile" src="./light_mode.svg" width="100%">
 </picture>
 
 <br><br>
